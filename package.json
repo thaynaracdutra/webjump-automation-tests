@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.23.10",
+    "cypress": "^13.7.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "eslint-plugin-cypress": "^2.15.1",
+    "faker": "^5.5.3"
+  },
+  "scripts": {
+    "cy:open": "cypress open --browser electron",
+    "cy:run": "cypress run --browser electron",
+    "lint": "eslint ."
+  }
+}
