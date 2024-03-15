@@ -1,12 +1,12 @@
 /// <reference types="cypress" />
 
+import faker from "faker";
+
 import shoppingCartElements from "../support/pages/shoppingCartElements"
 import checkoutElements from "../support/pages/checkoutElements";
 
-import faker from "faker";
-
 describe('Purchase Tests', () => {
-  it.only('Validate successful purchase', () => {
+  it('Validate successful purchase', () => {
     const firstName = faker.name.firstName();
     const lastName = faker.name.lastName();
     const companyName = faker.company.companyName();

@@ -5,7 +5,6 @@ class homeElements {
     shoppingCartIcon = '[class="action showcart"]' 
     accessSalePage = '[id="ui-id-7"]'
     accessProducts = 'a'
-
 }
 
 export default new homeElements
