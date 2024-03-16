@@ -43,3 +43,12 @@ npm run cy:open
 ```
 
 Ao finalizar, todos os testes devem ter sido realizados sem falhas.
+
+## 👩🏽‍💻 Evidencia dos testes executados
+
+Evidencia dos testes executados e reportados pelo framework Mochawesome reporter.
+<p align="center"><img src="cypress/screenshots/report.jpeg" alt="allSpecsPassed"/></p>
+
+## Comentários do autor
+
+* Este projeto conta com a execução via pipeline GitHub Actions, que é executada a cada commit e pode ter suas execuções visualizadas [aqui](https://github.com/thaynaracdutra/webjump-automation-tests/actions).
