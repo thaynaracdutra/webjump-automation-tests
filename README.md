@@ -3,7 +3,7 @@
 ## Features
 ### Test suite
 * ✔️ Cypress, usado para criar e rodar a automação de testes E2E.
-* ✔️ Faker, para gerar massa de testes aletória para os testes.
+* ✔️ Faker, para gerar massa de testes aleatória para os testes.
 * ✔️ Test retry, para repetir testes que falharem e evitar testes "flaky".
 
 ### Code quality
@@ -20,7 +20,7 @@
 
 ## ⚙️ Rodando o projeto na sua maquina
 
-Inicialmente, você deve clonar o projeto para sua máquina, caso tenha dúvidas de como fazer você pode seguir o passo a passo para clonavem via IDE VS Code [aqui](https://learn.microsoft.com/pt-br/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
+Inicialmente, você deve clonar o projeto para sua máquina, caso tenha dúvidas de como fazer você pode seguir o passo a passo para clonagem via IDE VS Code [aqui](https://learn.microsoft.com/pt-br/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
 
 Link para clonagem do projeto:
 ```
